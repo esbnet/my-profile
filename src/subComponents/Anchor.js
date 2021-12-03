@@ -10,8 +10,6 @@ const Container = styled.div`
     
     display:none;
 
-
-
   `};
 `;
 
@@ -19,11 +17,6 @@ const PreDisplay = styled.div`
   position:absolute;
   top:0;
   right:2rem;
-
- 
-
-
-}
 `;
 
 const Slider = styled.div`

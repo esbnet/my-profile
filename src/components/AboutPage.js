@@ -107,15 +107,15 @@ const AboutPage = () => {
           <Main
             initial={{ opacity: 0 }}
             animate={{ opacity: 1, transition: { duration: 1, delay: 1 } }}>
-            Sou desenvolvedor front-end localizado em Salvador / BA - Brasil. 
-            Minha maior paixão é criar sites, aplicações web e mobile com ótima experiência do usuário.
+            Sou desenvolvedor front-end e resido em Salvador/BA.
+            Tenho paixão em criar sites, aplicações web e mobile com ótima experiência do usuário.
             <br />
             <br />
-            Estou interessado em toda a stack de front-end, back-end e mobile. 
-            Como tentar coisas novas e construir grandes projetos. 
-            Sou freelancer e blogueiro independente. Amo escrever blogs e ler livros. <br />
+            Tenho interesse em front-end, back-end e mobile. 
+            Aceito todo tipo de desafio, desde coisas novas e simples a construir grandes projetos. 
+            Sou freelancer e há pouco iniciei um blog. Amo desenvolver e vou compartilhar na net os conhecimentos que tenho. <br />
             <br />Eu acredito que tudo é uma Arte quando você coloca sua consciência nisso. 
-            Você pode se conectar comigo através de links sociais.{' '}
+            Você pode se conectar comigo através dos links sociais a esquerda.{' '}
           </Main>
           <BigTitle text='ABOUT' top='10%' left='5%' />
         </Box>

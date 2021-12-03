@@ -168,20 +168,22 @@ const MySkillsPage = () => {
               <Design width={40} height={40} /> Soft Skills
             </Title>
             <Description>
-              I love to create design which speaks, Keep it clean, minimal and
-              simple.
+            Tenho paixão pelo que faço, para isso estou em uma constante curva de 
+            aprendizagem para melhorar cada vez mais.
             </Description>
             <Description>
-              <strong>I like to Design</strong> <br />
+              <strong>GOSTO DE CONSTRUIR</strong> <br />
               <ul>
-                <li>Web Design</li>
-                <li>Mobile Apps</li>
+                <li>Pensamento Crítico</li>
+                <li>Resolução de Problemas Complexos</li>
+                <li>Criatividade</li>
+                <li>Foco</li>
               </ul>
             </Description>
             <Description>
-              <strong>Tools</strong> <br />
+              <strong>Ferramentas</strong> <br />
               <ul>
-                <li>Figma</li>
+                <li>Notion, Figma, Trello</li>
               </ul>
             </Description>
           </Main>
@@ -191,19 +193,19 @@ const MySkillsPage = () => {
               <Develope width={40} height={40} /> Hard Skills
             </Title>
             <Description>
-              I value business or brand for which i'm creating, thus i enjoy
-              bringing new ideas to life.
+            Valorizo o negócio ou a marca para a qual estou desenvolvendo, por
+             isso me esforço em trazer novas ideias a realidade.
             </Description>
             <Description>
-              <strong>Skills</strong> <br />
+              <strong>Principais Habilidades</strong> <br />
               <p>
-                Html, Css, Js, React, Redux, Sass, Bootstrap, Tailwind, Firebase
+                Node, React, React Native, Laravel, Redux, Typescript, Sass, Tailwind, Next, DDD, Clean Clean, Design Patterns, TDD, CI/CD, 
                 etc.
               </p>
             </Description>
             <Description>
-              <strong>Tools</strong> <br />
-              <p>VScode, Github, Codepen etc.</p>
+              <strong>Ferramentas</strong> <br />
+              <p>VScode, Github, Docker, AWS</p>
             </Description>
           </Main>
           <BigTitle text="Skills" top="80%" right="30%" />

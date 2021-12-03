@@ -179,9 +179,9 @@ const Intro = () => {
     >
       <SubBox>
         <Text>
-          <h1>Hi,</h1>
+          <h1>Olá,</h1>
 
-          <h3>I'm Edmilson Soares.</h3>
+          <h3>SOu Edmilson Soares</h3>
 
           <h6>Eu projeto e codifico sites, aplicações web e aplicativos para celulares.</h6>
         </Text>

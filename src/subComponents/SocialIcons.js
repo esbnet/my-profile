@@ -1,4 +1,4 @@
-import { Github, Twitter, Facebook, YouTube, Website } from "../components/AllSvgs";
+import { Github, Twitter, Facebook, YouTube } from "../components/AllSvgs";
 
 import styled from "styled-components";
 import { motion } from "framer-motion";
@@ -85,7 +85,7 @@ const SocialIcons = (props) => {
         </NavLink>
       </motion.div> */}
 
-      <motion.div
+      {/* <motion.div
         initial={{ transform: "scale(0)" }}
         animate={{ scale: [0, 1, 1.5, 1] }}
         transition={{ type: "spring", duration: 1, delay: 1.2 }}
@@ -103,9 +103,7 @@ const SocialIcons = (props) => {
             }
           />
         </NavLink>
-      </motion.div>
-
-
+      </motion.div> */}
 
       <motion.div
         initial={{ transform: "scale(0)" }}
@@ -136,7 +134,7 @@ const SocialIcons = (props) => {
           target="_blank"
           to={{
             pathname:
-              "https://www.youtube.com/channel/UCoCIp_idmPbpiUud0vymYmw",
+              "https://www.youtube.com/c/EdmilsonSoares",
           }}
         >
           <YouTube
