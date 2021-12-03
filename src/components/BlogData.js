@@ -12,7 +12,7 @@ export const Blogs = [
         name:"Um breve review sobrer o Redux Saga",
         tags:["react","saga","redux"],
         date:"27 Ago, 2021",
-        imgSrc:"https://quarkscode.com.br/wp-content/uploads/2021/08/Redux-Saga-1.png",
+        imgSrc:"https://quarkscode.com.br/wp-content/uploads/2021/08/Redux-Saga.png",
         link:"https://quarkscode.com.br/2021/08/27/redux-saga/"
     },
     {

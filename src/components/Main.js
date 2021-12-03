@@ -226,7 +226,7 @@ const Main = () => {
               />
             )}
 
-            <span>click here</span>
+            <span>clique aqui</span>
           </Center>
 
           {mq ? (
