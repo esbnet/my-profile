@@ -181,7 +181,7 @@ const Intro = () => {
         <Text>
           <h1>Olá,</h1>
 
-          <h3>SOu Edmilson Soares</h3>
+          <h3>Me chamo Edmilson Soares</h3>
 
           <h6>Eu projeto e codifico sites, aplicações web e aplicativos para celulares.</h6>
         </Text>
