@@ -75,7 +75,7 @@ const SocialIcons = (props) => {
           target="_blank"
           to={{
             pathname:
-              "https://www.youtube.com/c/EdmilsonSoares",
+              "https://www.linkedin.com/in/edmilson-soares/",
           }}
         >
           <Linkedin
