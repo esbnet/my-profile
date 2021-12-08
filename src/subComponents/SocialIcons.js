@@ -1,4 +1,4 @@
-import { Github, Twitter, Facebook, YouTube } from "../components/AllSvgs";
+import { Github, Twitter, Facebook, YouTube, Linkedin, Website } from "../components/AllSvgs";
 
 import styled from "styled-components";
 import { motion } from "framer-motion";
@@ -64,6 +64,29 @@ const SocialIcons = (props) => {
           />
         </NavLink>
       </motion.div>
+
+      <motion.div
+        initial={{ transform: "scale(0)" }}
+        animate={{ scale: [0, 1, 1.5, 1] }}
+        transition={{ type: "spring", duration: 1, delay: 1.6 }}
+      >
+        <NavLink
+          style={{ color: "inherit" }}
+          target="_blank"
+          to={{
+            pathname:
+              "https://www.youtube.com/c/EdmilsonSoares",
+          }}
+        >
+          <Linkedin
+            width={25}
+            height={25}
+            fill={
+              props.theme === "dark" ? `${DarkTheme.text}` : `${DarkTheme.body}`
+            }
+          />
+        </NavLink>
+      </motion.div>
       
       {/* <motion.div
         initial={{ transform: "scale(0)" }}
@@ -108,25 +131,6 @@ const SocialIcons = (props) => {
       <motion.div
         initial={{ transform: "scale(0)" }}
         animate={{ scale: [0, 1, 1.5, 1] }}
-        transition={{ type: "spring", duration: 1, delay: 1.4 }}
-      >
-        <NavLink
-          style={{ color: "inherit" }}
-          target="_blank"
-          to={{ pathname: "https://www.facebook.com/edmilson" }}
-        >
-          <Facebook
-            width={25}
-            height={25}
-            fill={
-              props.theme === "dark" ? `${DarkTheme.text}` : `${DarkTheme.body}`
-            }
-          />
-        </NavLink>
-      </motion.div>
-      <motion.div
-        initial={{ transform: "scale(0)" }}
-        animate={{ scale: [0, 1, 1.5, 1] }}
         transition={{ type: "spring", duration: 1, delay: 1.6 }}
       >
         <NavLink
@@ -138,6 +142,26 @@ const SocialIcons = (props) => {
           }}
         >
           <YouTube
+            width={25}
+            height={25}
+            fill={
+              props.theme === "dark" ? `${DarkTheme.text}` : `${DarkTheme.body}`
+            }
+          />
+        </NavLink>
+      </motion.div>
+
+      <motion.div
+        initial={{ transform: "scale(0)" }}
+        animate={{ scale: [0, 1, 1.5, 1] }}
+        transition={{ type: "spring", duration: 1, delay: 1.4 }}
+      >
+        <NavLink
+          style={{ color: "inherit" }}
+          target="_blank"
+          to={{ pathname: "https://www.facebook.com/edmilson" }}
+        >
+          <Facebook
             width={25}
             height={25}
             fill={
