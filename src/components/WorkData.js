@@ -2,7 +2,7 @@ export const Work = [
     {
         id:1,
         name:"SEC - BA",
-        description:"Construi uma aplicação que tinha a função de integrar dois processos de trabalho realizada por áreas distintas.",
+        description:"Construi uma aplicação que tinha a função de integrar dois processos de trabalho realizados em setores distintas.",
         tags:["laravel","bootstrap","ajax"],
         
         demo:"#",
@@ -11,7 +11,7 @@ export const Work = [
     {
         id:2,
         name:"Médicos do Brasil",
-        description:"Realizar manutenção corretivas, preventivas e desenvolver novas features em um app inovador que possibilita consultas médicas on-line.",
+        description:"Realizar manutenções corretivas, preventivas e desenvolver novos features em um app inovador que possibilita consultas médicas on-line.",
         tags:["react native","react","laravel","redux","saga","api" ],
         
         demo:"#",

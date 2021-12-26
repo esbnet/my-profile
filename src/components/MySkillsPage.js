@@ -172,7 +172,7 @@ const MySkillsPage = () => {
             aprendizagem para melhorar cada vez mais.
             </Description>
             <Description>
-              <strong>GOSTO DE CONSTRUIR</strong> <br />
+              <strong>EM AÇÃO UTILIZO</strong> <br />
               <ul>
                 <li>Pensamento Crítico</li>
                 <li>Resolução de Problemas Complexos</li>
