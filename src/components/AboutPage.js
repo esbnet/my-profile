@@ -107,15 +107,15 @@ const AboutPage = () => {
           <Main
             initial={{ opacity: 0 }}
             animate={{ opacity: 1, transition: { duration: 1, delay: 1 } }}>
-            Sou desenvolvedor front-end residente em Salvador/BA.
-            Tenho paixão em criar sites, aplicações web e mobile com foco na experiência do usuário.
+            Sou desenvolvedor fullstack e residente em Salvador/BA.
+            Tenho paixão em criar sites, aplicações web e mobile foccado na experiência do usuário.
             <br />
             <br />
             Transito entre front-end, back-end e mobile com fluência. 
-            Aceito todo tipo de desafio, desde coisas novas e simples a construir grandes e desafiadores projetos. 
+            Aceito todo tipo de desafio, de coisas simples a construir grandes e desafiadores projetos.
             Sou freelancer e há pouco iniciei um blog. Amo desenvolver e vou compartilhar com todos os conhecimentos que adquiri.<br />
-            <br />Programar é minha paixão. Acredito que a inclusão digital precisa ser acessível a todos e é nisso que quero trabalhar.
-            Me acompanhe através dos links sociais a esquerda. {' '}
+            <br />Programar é minha paixão. Acredito que a inclusão digital precisa ser acessível a todos e é nisso que gasto minhas energias.
+            Me acompanhe através nas redes sociais a esquerda. {' '}
           </Main>
           <BigTitle text='ABOUT' top='10%' left='5%' />
         </Box>
