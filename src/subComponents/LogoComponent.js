@@ -20,7 +20,7 @@ const Logo = styled.h1`
 `;
 
 const LogoComponent = (props) => {
-  return <Logo color={props.theme}>ESB</Logo>;
+  return <Logo color={props.theme} style={{fontFamily: 'Roboto'}} title="Edmilson Soares Bezerra - @esbnet">esb</Logo>;
 };
 
 export default LogoComponent;

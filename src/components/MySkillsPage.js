@@ -172,7 +172,7 @@ const MySkillsPage = () => {
             aprendizagem para melhorar cada vez mais.
             </Description>
             <Description>
-              <strong>EM AÇÃO UTILIZO</strong> <br />
+              <strong>EM AÇÃO, UTILIZO</strong> <br />
               <ul>
                 <li>Pensamento Crítico</li>
                 <li>Resolução de Problemas Complexos</li>
@@ -183,7 +183,7 @@ const MySkillsPage = () => {
             <Description>
               <strong>Ferramentas</strong> <br />
               <ul>
-                <li>Notion, Figma, Trello</li>
+                <li>Jira, Notion, Figma, Trello</li>
               </ul>
             </Description>
           </Main>
