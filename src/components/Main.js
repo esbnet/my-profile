@@ -203,12 +203,15 @@ const Main = () => {
         <DarkDiv click={click} />
         <Container>
           <LogoComponent theme={click ? "dark" : "light"} />
+          
           <PowerButton />
+
           {mq ? (
             <SocialIcons theme="light" />
           ) : (
             <SocialIcons theme={click ? "dark" : "light"} />
           )}
+
           <Center click={click}>
             {mq ? (
               <YinYang

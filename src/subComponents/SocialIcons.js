@@ -45,12 +45,14 @@ const SocialIcons = (props) => {
 
   return (
     <Icons>
+      {/* github */}
       <motion.div
         initial={{ transform: "scale(0)" }}
         animate={{ scale: [0, 1, 1.5, 1] }}
         transition={{ type: "spring", duration: 1, delay: 1 }}
       >
         <NavLink
+          title="Meu repositório principal - Github"
           style={{ color: "inherit" }}
           target="_blank"
           to={{ pathname: "https://github.com/esbnet" }}
@@ -65,12 +67,14 @@ const SocialIcons = (props) => {
         </NavLink>
       </motion.div>
 
+      {/* linkedin */}
       <motion.div
         initial={{ transform: "scale(0)" }}
         animate={{ scale: [0, 1, 1.5, 1] }}
         transition={{ type: "spring", duration: 1, delay: 1.6 }}
       >
         <NavLink
+          title="Minha carreira - Linkedin"
           style={{ color: "inherit" }}
           target="_blank"
           to={{
@@ -128,12 +132,14 @@ const SocialIcons = (props) => {
         </NavLink>
       </motion.div> */}
 
+      {/* youtube */}
       <motion.div
         initial={{ transform: "scale(0)" }}
         animate={{ scale: [0, 1, 1.5, 1] }}
         transition={{ type: "spring", duration: 1, delay: 1.6 }}
       >
         <NavLink
+          title="Meu Canal Sobre Tecnologia - Youtube"
           style={{ color: "inherit" }}
           target="_blank"
           to={{
@@ -151,12 +157,14 @@ const SocialIcons = (props) => {
         </NavLink>
       </motion.div>
 
-      <motion.div
+      {/* facebook */}
+      {/* <motion.div
         initial={{ transform: "scale(0)" }}
         animate={{ scale: [0, 1, 1.5, 1] }}
         transition={{ type: "spring", duration: 1, delay: 1.4 }}
       >
         <NavLink
+          title="Facebook"
           style={{ color: "inherit" }}
           target="_blank"
           to={{ pathname: "https://www.facebook.com/edmilson" }}
@@ -169,11 +177,11 @@ const SocialIcons = (props) => {
             }
           />
         </NavLink>
-      </motion.div>
+      </motion.div> */}
 
       <Line
         initial={{ height: 0 }}
-        animate={{ height: mq ? "5rem" : "8rem" }}
+        animate={{ height: mq ? "3rem" : "6rem" }}
         color={props.theme}
         transition={{ type: "spring", duration: 1, delay: 0.8 }}
       />
