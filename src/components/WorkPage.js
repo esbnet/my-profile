@@ -84,7 +84,6 @@ const Rotate = styled.span`
          width:50px;
          height:50px;
        }
-
   `};
 `;
 const container = {
