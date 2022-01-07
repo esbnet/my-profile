@@ -107,15 +107,13 @@ const AboutPage = () => {
           <Main
             initial={{ opacity: 0 }}
             animate={{ opacity: 1, transition: { duration: 1, delay: 1 } }}>
-            Sou desenvolvedor fullstack e residente em Salvador/BA.
-            Tenho paixão em criar sites, aplicações web e mobile foccado na experiência do usuário.
-            <br />
-            <br />
-            Transito entre front-end, back-end e mobile com fluência. 
-            Aceito todo tipo de desafio, de coisas simples a construir grandes e desafiadores projetos.
-            Sou freelancer e há pouco iniciei um blog. Amo desenvolver e vou compartilhar com todos os conhecimentos que adquiri.<br />
-            <br />Programar é minha paixão. Acredito que a inclusão digital precisa ser acessível a todos e é nisso que gasto minhas energias.
-            Me acompanhe através nas redes sociais a esquerda. {' '}
+            Sou desenvolvedor fullstack residente em Salvador/BA e PROGRAMAR é minha paixão. 
+            Crio sites, desenvolvo aplicações web e mobile focado na experiência do usuário e nas melhores práticas e padrões de arquitetura e design.
+            {/* Aceito desafios simples à projetos de maior complexidade. */}
+            <br /><br />
+            Há pouco iniciei um blog onde compartilho conhecimentos que adquiri ao longo da minha carreira. (www.quarksCode.com.br)
+            <br /><br />
+            Por acreditar que a inclusão digital precisa ser acessível a todos, gasto parte das minhas energias no que faço e compartilho com os interessado.        
           </Main>
           <BigTitle text='ABOUT' top='10%' left='5%' />
         </Box>
