@@ -139,7 +139,7 @@ const SocialIcons = (props) => {
         transition={{ type: "spring", duration: 1, delay: 1.6 }}
       >
         <NavLink
-          title="Meu Canal Sobre Tecnologia - Youtube"
+          title="Meu canal sobre tecnologia - Youtube"
           style={{ color: "inherit" }}
           target="_blank"
           to={{
