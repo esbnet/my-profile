@@ -113,7 +113,7 @@ const AboutPage = () => {
             <br /><br />
             Há pouco iniciei um blog onde compartilho conhecimentos que adquiri ao longo da minha carreira. (www.quarksCode.com.br)
             <br /><br />
-            Por acreditar que a inclusão digital precisa ser acessível a todos, gasto parte das minhas energias no que faço e compartilho com os interessado.        
+            Por acreditar que a inclusão digital precisa ser acessível a todos, me emprenho ao máximo no que faço e compartilho a aprendizagem com os interessado.        
           </Main>
           <BigTitle text='ABOUT' top='10%' left='5%' />
         </Box>
