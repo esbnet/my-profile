@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Captura de tela 2022-02-02 171326](https://user-images.githubusercontent.com/12105370/152230058-e480e556-27d1-427c-920b-f0c6a9e265a0.png)
+![Captura de tela 2022-02-02 171326](https://esbnet.tec.br/)
 
 ## Available Scripts
 
