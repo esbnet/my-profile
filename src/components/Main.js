@@ -236,7 +236,7 @@ const Main = () => {
             <Contact
               click={+click}
               target="_blank"
-              to={{ pathname: "mailto:esbnet@gmail.com" }}
+              to={{ pathname: "https://api.whatsapp.com/send?1=pt_br&phone=5571988630845" }}
             >
               <motion.h3
                 initial={{
@@ -257,7 +257,7 @@ const Main = () => {
             <Contact
               click={+false}
               target="_blank"
-              to={{ pathname: "mailto:esbnet@gmail.com" }}
+              to={{ pathname: "https://api.whatsapp.com/send?1=pt_br&phone=5571988630845" }}
             >
               <motion.h3
                 initial={{
