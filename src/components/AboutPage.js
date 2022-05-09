@@ -107,7 +107,7 @@ const AboutPage = () => {
           <Main
             initial={{ opacity: 0 }}
             animate={{ opacity: 1, transition: { duration: 1, delay: 1 } }}>
-            Sou desenvolvedor fullstack residente em Salvador/BA e PROGRAMAR é minha paixão. 
+            Sou Fullstack Developer residente em Salvador/BA e PROGRAMAR é minha paixão. 
             Crio sites, desenvolvo aplicações web e mobile focado na experiência do usuário e nas melhores práticas e padrões de arquitetura e design.
             {/* Aceito desafios simples à projetos de maior complexidade. */}
             <br /><br />
