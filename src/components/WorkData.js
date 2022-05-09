@@ -22,12 +22,10 @@ export const Work = [
         id:3,
         name:"Feedget",
         description:"Aplicativo server/front/back para envido de feedback no app ou site onde ele estiver rodando.",
-        tags:["react native","react","laravel","redux","saga","api" ],
+        tags:["node","express","prisma","react","react native","tailwind","axio","api" ],
         
         demo:"https://feedget-esbnet.vercel.app/",
         github:"https://github.com/esbnet/nlwreturn-web"
         
     },
-  
-  
 ] 
