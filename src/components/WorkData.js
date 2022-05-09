@@ -14,8 +14,18 @@ export const Work = [
         description:"Realizar manutenções corretivas, preventivas e desenvolver novos features em um app inovador que possibilita consultas médicas on-line.",
         tags:["react native","react","laravel","redux","saga","api" ],
         
-        demo:"#",
+        demo:"https://medicosdobrasil.com.br/",
         github:"#"
+        
+    },
+    {
+        id:3,
+        name:"Feedget",
+        description:"Aplicativo server/front/back para envido de feedback no app ou site onde ele estiver rodando.",
+        tags:["react native","react","laravel","redux","saga","api" ],
+        
+        demo:"https://feedget-esbnet.vercel.app/",
+        github:"https://github.com/esbnet/nlwreturn-web"
         
     },
   
