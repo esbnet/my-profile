@@ -2,8 +2,8 @@ export const Work = [
     {
         id: 1,
         name: "Feedget",
-        description: "Aplicativo server/front/back para envido de feedback no app ou site onde ele estiver rodando.",
-        tags: ["node", "express", "prisma", "react", "react native", "tailwind", "axio", "api"],
+        description: "Aplicativo server/front/app para envido de feedback no app ou site onde ele estiver rodando.",
+        tags: ["node", "express", "prisma", "react", "react native", "tailwind", "axio", "api", "postgres"],
 
         demo: "https://feedget-esbnet.vercel.app/",
         github: "https://github.com/esbnet/nlwreturn-web"
@@ -22,7 +22,7 @@ export const Work = [
         id: 3,
         name: "SEC - BA",
         description: "Construi uma aplicação que tinha a função de integrar dois processos de trabalho realizados em setores distintas.",
-        tags: ["laravel", "bootstrap", "ajax"],
+        tags: ["laravel", "bootstrap", "ajax", "mysql"],
 
         demo: "#",
         github: "https://github.com/esbnet/scp"
